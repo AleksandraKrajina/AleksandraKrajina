@@ -1,12 +1,11 @@
 👋 Hi, I’m @AleksandraKrajina
 
 ## About Me
-I am a passionate software developer with experience in Tailwind, React, but also in Figma. I love coding, learning new technologies and solving isuesses.
+I am a passionate software developer with experience in Tailwind, React but also in Figma. I love coding, learning new technologies and solving issues.
 
-- 🔭 I’m currently working on Phone Cases Shop 
+- 🔭 I’m currently working on E-commerce shop
 - 🌱 I’m currently learning Astro
 - 📫 How to reach me on my e-mail: aleksandraa0099@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
-- ⚡ Fun fact: [A fun fact about you]
 
 ## Skills
 - **Programming Languages:** HTML5, CSS3, SassScript, C#, PHP, MySQL, JavaScript
@@ -33,7 +32,7 @@ This is a more design-oriented project in Figma where I used components and anim
 
 
 ## Experience
-- I dont have official working experience
+- I don't have official working experience.
 
 ## Certifications
 2021.- Web programming course front-end SmartIn IT
