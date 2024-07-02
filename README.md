@@ -4,7 +4,7 @@
 I am a passionate software developer with experience in Tailwind, React but also in Figma. I love coding, learning new technologies and solving issues.
 
 - 🔭 I’m currently working on E-commerce shop
-- 🌱 I’m currently learning Astro
+- 🌱 I’m currently learning Astro and C++
 - 📫 How to reach me on my e-mail: aleksandraa0099@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Skills
