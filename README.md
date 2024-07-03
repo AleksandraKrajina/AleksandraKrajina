@@ -14,10 +14,10 @@ I am a passionate software developer with experience in Tailwind, React but also
 ## Projects
 Here are some of my notable projects:
 
-### [CaseShoop]
+### [CaseShop]
 Short description of the project: Complete E-Commerce Shop
 - **Technologies used:** Next.js 14, Tailwind, React
-- Link to the project: /On my Github profile-CaseShoop project/
+- Link to the project: /On my Github profile-CasePhone/
 
 ### [Fog]
 Short description of the project:I am very interested in learning about every step in the realization of the final product for clients.
