@@ -1,7 +1,7 @@
 👋 Hi, I’m @AleksandraKrajina
 
 ## About Me
-I am a passionate software developer with experience in Tailwind, React but also in Figma. I love coding, learning new technologies and solving issues.
+I am a passionate web developer with experience in Tailwind, React but also in Figma. I love coding, learning new technologies and solving issues.
 
 - 🔭 I’m currently working on E-commerce shop
 - 🌱 I’m currently learning Astro and C++
