@@ -11,20 +11,6 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 - **Programming Languages:** HTML5, CSS3, SassScript, C#, PHP, MySQL, JavaScript
 - **Frameworks and Libraries:** React, Tailwind, Next.js
 
-## Projects
-Here are some of my notable projects:
-
-### [CaseShop]
-Short description of the project: Complete E-Commerce Shop
-- **Technologies used:** Next.js 14, Tailwind, React
-- Link to the project: /On my Github profile-CasePhone/
-
-### [Fog]
-Short description of the project:I am very interested in learning about every step in the realization of the final product for clients.
-This is a more design-oriented project in Figma where I used components and animations.
-- **Technologies used:** Figma
-- Link to the project: https://www.figma.com/design/YknyOYDSWKU59VX4poUmoX/project-1?m=auto&t=SGkktYpngKN1d5V5-6
-
 
 ## Education
 2021- in progres-VTS, Information Technology
