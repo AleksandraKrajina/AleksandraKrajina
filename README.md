@@ -8,17 +8,20 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 - 📫 How to reach me on my e-mail: akrajinaaleksandra@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Skills
-- **Programming Languages:** HTML5, CSS3, SassScript, C#, PHP, MySQL, JavaScript
+- **Programming Languages:** HTML5, CSS3, SassScript, JavaScript, C#, PHP, MySQL
 - **Frameworks and Libraries:** React, Tailwind, Next.js
+- **Design collaboration tools:** Figma
 
 
 ## Education
-2021- in progres-VTS, Information Technology
-2019-in progress-PMF, Mathematics
+- 2021- pesent-VTS, Information Technology
+- 2019-present-PMF, Mathematics
 
 
 ## Experience
-- I don't have official working experience.
+- 2019.-Present Mathematics professor
+- 2021.-2022. General Secretary of the Women's Football Club, Vojvodina
+- 2020.-2021. Intern at a bank, handling loan calculations, grace periods, and refinancing, Opportunity
 
 ## Certifications
 2021.- Web programming course front-end SmartIn IT
@@ -28,7 +31,7 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 
 
 ## Contact Me
-Feel free to reach out to me via LinkedIn(https://www.linkedin.com/in/aleksandra-krajina-9885b4198/) or email (mailto:[aleksandraa0099@gmail.com]).
+Feel free to reach out to me via LinkedIn(https://www.linkedin.com/in/aleksandra-krajina-9885b4198/) or email (mailto:[akrajinaaleksandra@gmail.com]).
 
 
 
