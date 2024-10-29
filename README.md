@@ -4,12 +4,12 @@
 I am a passionate web developer with experience in Tailwind, React but also in Figma. I love coding, learning new technologies and solving issues.
 
 - 🔭 I’m currently working on E-commerce shop
-- 🌱 I’m currently learning Astro and C++
+- 🌱 I’m currently learning Astro
 - 📫 How to reach me on my e-mail: akrajinaaleksandra@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Skills
 - **Programming Languages:** HTML5, CSS3, SassScript, JavaScript, C#, PHP, MySQL
-- **Frameworks and Libraries:** React, Tailwind, Next.js
+- **Frameworks and Libraries:** React, Tailwind, Next.js, WordPress
 - **Design collaboration tools:** Figma
 
 
