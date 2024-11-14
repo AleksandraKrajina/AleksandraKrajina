@@ -3,8 +3,8 @@
 ## About Me
 I am a passionate web developer with experience in Tailwind, React but also in Figma. I love coding, learning new technologies and solving issues.
 
-- 🔭 I’m currently working on E-commerce shop
-- 🌱 I’m currently learning Astro
+- 🌱 I’m currently learning Astro and working on E-commerce shop
+- 🔭 My CV in Figma https://www.figma.com/design/K2DeJqZxiKUslkx9ECDL5O/CV-Aleksandra-K.?node-id=5-2&node-type=frame&t=GFkewT6odYARrRtG-0
 - 📫 How to reach me on my e-mail: akrajinaaleksandra@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Skills
@@ -19,15 +19,14 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 
 
 ## Experience
-- 2019.-Present Mathematics professor
-- 2021.-2022. General Secretary of the Women's Football Club, Vojvodina
-- 2020.-2021. Intern at a bank, handling loan calculations, grace periods, and refinancing, Opportunity
+- 2021.-Present Mathematics professor
+- 2020.-2021. Intern at a bank, handling loan calculations, grace periods, and refinancing, Opportunity bank
 
 ## Certifications
 2021.- Web programming course front-end SmartIn IT
-2020.-Resilience
-2019.- PHP I MySQL
-2019.- Successful communication, project management, business administration, creationg a business model
+2020.-Resilience, Kampster
+2019.- PHP I MySQL, Kampster
+2019.- Successful communication, project management, business administration, creationg a business model, Coca-Cola
 
 
 ## Contact Me
