@@ -23,10 +23,10 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 - 2020.-2021. Intern at a bank, handling loan calculations, grace periods, and refinancing, Opportunity bank
 
 ## Certifications
-2021.- Web programming course front-end SmartIn IT
-2020.- Resilience, Kampster
-2019.- PHP I MySQL, Kampster
-2019.- Successful communication, project management, business administration, creationg a business model, Coca-Cola
+- 2021.- Web programming course front-end SmartIn IT
+- 2020.- Resilience, Kampster
+- 2019.- PHP I MySQL, Kampster
+- 2019.- Successful communication, project management, business administration, creationg a business model, Coca-Cola
 
 
 ## Contact Me
