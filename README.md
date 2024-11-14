@@ -24,7 +24,7 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 
 ## Certifications
 2021.- Web programming course front-end SmartIn IT
-2020.-Resilience, Kampster
+2020.- Resilience, Kampster
 2019.- PHP I MySQL, Kampster
 2019.- Successful communication, project management, business administration, creationg a business model, Coca-Cola
 
