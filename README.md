@@ -19,6 +19,7 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 
 
 ## Experience
+- 2024.-2025. Frontedn developer at Salestrekker
 - 2021.-Present Mathematics professor
 - 2020.-2021. Intern at a bank, handling loan calculations, grace periods, and refinancing, Opportunity bank
 
