@@ -4,7 +4,7 @@
 I am a passionate web developer with experience in Tailwind, React but also in Figma. I love coding, learning new technologies and solving issues.
 
 - 🌱 I’m currently learning Astro and working on E-commerce shop
-- 🔭 My CV in Figma https://www.figma.com/design/K2DeJqZxiKUslkx9ECDL5O/CV-Aleksandra-K.?node-id=5-2&node-type=frame&t=GFkewT6odYARrRtG-0
+- 🔭 My portfolio https://aleksandra-krajina.great-site.net/
 - 📫 How to reach me on my e-mail: akrajinaaleksandra@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Skills
