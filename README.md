@@ -8,8 +8,8 @@ I am a passionate web developer with experience in Tailwind, React but also in F
 - 📫 How to reach me on my e-mail: akrajinaaleksandra@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Skills
-- **Programming Languages:** HTML5, CSS3, SassScript, JavaScript, C#, PHP, MySQL
-- **Frameworks and Libraries:** React, Tailwind, Next.js, WordPress
+- **Programming Languages:** JavaScript, CSS3, HTML5, C#, PHP, MySQL
+- **Frameworks and Libraries:** React, TailwindCss, Next.js, WordPress
 - **Design collaboration tools:** Figma
 
 
