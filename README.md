@@ -16,15 +16,12 @@ contribute to your team.
 - 📫 How to reach me on my e-mail: akrajinaaleksandra@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Experience
-- ** Fronted developer
-at Lypta 2025. - present**
+- ** Fronted developer at Lypta 2025. - present**
 Developing and optimizing responsive web app using Nuxt.js, Vue3, Tailwind CSS, 
 JavaScript and Figma
-- **Fronted developer
-at Salestrekker  2024.- 2025.** Developing and optimizing responsive user interfaces using React,  Tailwind 
+- **Fronted developer at Salestrekker  2024.- 2025.** Developing and optimizing responsive user interfaces using React,  Tailwind 
 CSS, and JavaScript for an internal company project.
-- **Mathematics professor
-2021. - present** Experience in teaching complex mathematical concepts, fostering analytical 
+- **Mathematics professor 2021. - present** Experience in teaching complex mathematical concepts, fostering analytical 
 skills, and providing personalized support to students.
 
  ## Skills
