@@ -13,7 +13,6 @@ connect and see how I can
 contribute to your team.
 
 - 🌱 I’m currently learning Astro and working on E-commerce shop
-- 🔭 My portfolio https://aleksandra-krajina.great-site.net/
 - 📫 How to reach me on my e-mail: akrajinaaleksandra@gmail.com or LinkedIn Profile: https://www.linkedin.com/in/aleksandra-krajina-9885b4198/
 
 ## Experience
